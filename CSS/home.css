@@ -1,32 +1,11 @@
-body{
-
-    margin: 0px;
-    padding: 0px;
-
-}
+/*Global*/
+/*FimGlobal*/
 
 /*MENU Altera MENU*/
-
-.Logotipo{
-
-    position: absolute;
-    top: 0%;
-    left: 50%;
-    transform: translate(-50%, -0%);
-    height: 300px;
-    width: 300px;
-
-}
-
-.top{
-
-    background-color: #fec7de;
-    height: 600px;
-    width: 100%;
-}
-
-h1{
-    color: white;
-}
-
 /*FimMenu*/
+
+/*Nav*/
+/*FimNav*/
+
+/*RDP*/
+/*FimRDP*/
