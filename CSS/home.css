@@ -1,0 +1,28 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/*MENU Altera MENU*/
+
+.Logotipo{
+
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -0%);
+    height: 600px;
+    width: 600px;
+
+}
+
+.top{
+
+    background-color: #fec7de;
+    height: 600px;
+    width: 100%;
+}
+
+/*FimMenu*/
