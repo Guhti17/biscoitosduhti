@@ -73,6 +73,7 @@ header ul li{
 
 .button_contact button:hover{
     background-color: #fc95c0;
+    color: rgb(245, 245, 245);
 }
 
 /*FimMenu*/
