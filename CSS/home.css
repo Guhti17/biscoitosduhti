@@ -65,13 +65,14 @@ header ul li{
     cursor: pointer;
     border-radius: 50px;
     color: #fec7de;
-    transition: all 0.6s;
+    transition: all 0.6s ease 0s;
 
 }
 
 
-.button_contact button :hover{
-    background-color: #b46083;
+.button_contact button:hover{
+    background-color: #fc95c0;
+    color: rgb(245, 245, 245);
 }
 /*FimMenu*/
 
