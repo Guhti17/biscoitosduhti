@@ -23,13 +23,12 @@ h1{
     font-family: "Montserrat", sans-serif;
     color: #fec7de;
 }
-
 /*FimGlobal*/
 
 
 
 /*MENU Altera MENU*/
-
+    
 .Logo{
 
     height: 50px;
@@ -74,7 +73,6 @@ header ul li{
 .button_contact button :hover{
     background-color: #b46083;
 }
-
 /*FimMenu*/
 
 /*Nav*/
